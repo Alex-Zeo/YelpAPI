@@ -6,7 +6,7 @@ Free data mining options are available on Yelp & the pagination and rate limits 
 The limitations are somewhat different on Yelp API, where it's vital to track daily usage per API key instead.
 
 V1 Stadium coordinates generate a 9-tile grid for data pulls where the Stadium is the center point.
-This data will be used to compare & validate Census restaurant data
+This data will be used to compare & validate US Census restaurant data and to guesstimate any growth/changes since 2020.
 
 ![image](https://github.com/Alex-Zeo/YelpAPI/assets/6181715/16d74044-fa5f-4c95-bb32-c66876031e10)
 
